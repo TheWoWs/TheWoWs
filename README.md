@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheWoWs
+- 👀 I’m interested in programming, public speaking, football
+- 🌱 I’m currently learning parsing and creating sites
+- 💞️ I’m looking to collaborate on other programmists and learn from there experience
+- 📫 email: TheWows@yandex.ru
